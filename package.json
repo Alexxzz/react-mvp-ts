@@ -1,9 +1,12 @@
 {
   "name": "react-mvp-ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Minimalistic Model-View-Presenter framework for React written in Typescript",
-  "main": "src/index.ts",
-  "scripts": {},
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
   "keywords": [
     "MVP",
     "Model-View-Presenter",

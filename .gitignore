@@ -161,4 +161,6 @@ fabric.properties
 .idea
 .idea/**
 
+dist
+
 # End of https://www.gitignore.io/api/node,webstorm
