@@ -1,6 +1,6 @@
 {
   "name": "react-mvp-ts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Minimalistic Model-View-Presenter framework for React written in Typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
