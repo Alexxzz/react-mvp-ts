@@ -1,7 +1,7 @@
 {
   "name": "react-mvp-ts",
   "version": "0.0.3",
-  "description": "Minimalistic Model-View-Presenter framework for React written in Typescript",
+  "description": "Minimalistic library for implementing Model-View-Presenter pattern in React written in Typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -15,7 +15,7 @@
     "typescript"
   ],
   "author": "Alexander Zahorskyi <zagorskyalexander@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "16.4.0"
   },
